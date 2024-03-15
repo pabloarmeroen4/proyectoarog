@@ -6,7 +6,7 @@
 }
 body{
     background-color: black;
-
+    width:100%;
 }
 
 h1{
@@ -17,4 +17,19 @@ h1{
 h3{
     text-align: center;
     font-size: 25px;
+}
+
+header{
+    height: 20vh;
+}
+
+main{
+    height: 70vh;
+    width: 90%;
+    margin: auto;
+
+}
+
+footer{
+    height:20vh;
 }
